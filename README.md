@@ -1,2 +1,2 @@
 # README
-Example project to demonstrate a GitHub pull
+Example project to demonstrate a GitHub push
